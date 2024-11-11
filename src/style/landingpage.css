@@ -1,0 +1,35 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+
+.hero {
+    background-image: linear-gradient(rgba(221, 221, 221, 0.47), rgba(221, 221, 221, 0.47)),url('../assets/20944834.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+}
+
+.hero h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.service {
+    background-color: pink;
+    
+}
+
+.service h1 {
+    font-size: 25px;
+
+}
+
+.service p {
+    font-size: 15px;
+}
+
+.footer {
+    background-color: black;
+}
